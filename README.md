@@ -42,3 +42,7 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+🔗 **LinkedIn Project Post** – Read More: [LinkedIn Project Post](https://www.linkedin.com/feed/update/urn:li:activity:7340627971369488386/?originTrackingId=yRMLbd8yS%2FChqCQKMumwDA%3D%3D)
+
+🔗 **Portfolio** – View Full Case Study: [Codebasics Portfolio](https://codebasics.io/portfolio/Prashant-shukla)
